@@ -4,4 +4,4 @@ Repositório para submissão, feedback e escolha de talks dos meetups do Serverl
 
 ## Como faço para enviar minha talk?
 
-Para enviar uma talk basta [abrir uma issue](https://github.com/serverlessfloripa/talks/issues/new) no [Issue Tracker desse repositório](https://github.com/serverlessfloripa/talks/issues) e seguir o template disponível (que vai aparecer escrito automaticamente no corpo da issue).
+Para enviar uma talk basta [abrir uma issue](https://github.com/serverlessfloripa/talks/issues/new?template=talks-submission-template.md) no [Issue Tracker desse repositório](https://github.com/serverlessfloripa/talks/issues) e seguir o template disponível (que vai aparecer escrito automaticamente no corpo da issue).
